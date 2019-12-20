@@ -35,9 +35,11 @@ latency.
 Here's a list of the DXP Cloud regions currently available: 
 
 -   Oregon, USA: `us-west1`
+-   Iowa, USA: `us-central1`
 -   London, England: `europe-west2`
 -   Frankfurt, Germany: `europe-west3`
 -   São Paulo, Brazil: `southamerica-east1`
+-   Sydney, Australia: `australia-southeast1`
 
 ![Figure 2: Your environments can be hosted in different locations.](../../images/environment-location.png)
 
